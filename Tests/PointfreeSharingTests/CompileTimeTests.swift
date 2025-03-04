@@ -1,6 +1,6 @@
 import Foundation
 import IdentifiedCollections
-import Sharing
+import PointfreeSharing
 
 private struct Item: Identifiable {
   let id = UUID()

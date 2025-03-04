@@ -1,7 +1,7 @@
 #if canImport(Combine)
   import Combine
   import Foundation
-  import Sharing
+  import PointfreeSharing
   import Testing
 
   @Suite struct SharedPublisherTests {

@@ -1,7 +1,7 @@
 import Dependencies
 import Foundation
 import GRDB
-import Sharing
+import PointfreeSharing
 
 struct Player: Equatable {
   var id: Int64?

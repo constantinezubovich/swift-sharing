@@ -1,5 +1,5 @@
 import Testing
-import Sharing
+import PointfreeSharing
 
 @Suite struct ContinuationTests {
   @Test func dontResumeLoadContinuation() async throws {

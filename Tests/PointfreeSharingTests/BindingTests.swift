@@ -1,5 +1,5 @@
 #if canImport(SwiftUI)
-  import Sharing
+  import PointfreeSharing
   import SwiftUI
   import Testing
 

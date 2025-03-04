@@ -1,7 +1,7 @@
 @preconcurrency import Combine
 import Dependencies
 import GRDB
-import Sharing
+import PointfreeSharing
 import SwiftUI
 
 extension SharedReaderKey {

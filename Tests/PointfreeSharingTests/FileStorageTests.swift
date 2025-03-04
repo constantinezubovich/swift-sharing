@@ -3,7 +3,7 @@
   import Dependencies
   import DependenciesTestSupport
   import Foundation
-  @_spi(Internals) import Sharing
+  @_spi(Internals) import PointfreeSharing
   import Testing
 
   @Suite struct FileStorageTests {

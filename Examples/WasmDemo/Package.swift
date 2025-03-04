@@ -18,7 +18,7 @@ let package = Package(
       name: "WasmDemo",
       dependencies: [
         .product(name: "SwiftNavigation", package: "swift-navigation"),
-        .product(name: "Sharing", package: "swift-sharing"),
+        .product(name: "PointfreeSharing", package: "swift-sharing"),
         .product(name: "JavaScriptEventLoop", package: "JavaScriptKit"),
         .product(name: "JavaScriptKit", package: "JavaScriptKit"),
       ]

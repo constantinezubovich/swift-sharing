@@ -1,6 +1,6 @@
 import JavaScriptEventLoop
 import JavaScriptKit
-import Sharing
+import PointfreeSharing
 import SwiftNavigation
 
 @main

@@ -1,7 +1,7 @@
 {
   "configurations" : [
     {
-      "id" : "BBC9C284-D79D-43D6-9179-A1358DE9AB1B",
+      "id" : "2EDC8456-2EF9-42D5-94F0-7DEC29313D2F",
       "name" : "Test Scheme Action",
       "options" : {
 
@@ -9,14 +9,14 @@
     }
   ],
   "defaultOptions" : {
-    "codeCoverage" : false
+
   },
   "testTargets" : [
     {
       "target" : {
         "containerPath" : "container:",
-        "identifier" : "SharingTests",
-        "name" : "SharingTests"
+        "identifier" : "PointfreeSharingTests",
+        "name" : "PointfreeSharingTests"
       }
     }
   ],

@@ -1,5 +1,5 @@
 import ConcurrencyExtras
-import Sharing
+import PointfreeSharing
 import SwiftUI
 
 struct NotificationsView: SwiftUICaseStudy {

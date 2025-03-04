@@ -1,4 +1,4 @@
-import Sharing
+import PointfreeSharing
 import SwiftUI
 
 private enum Route: Codable, Hashable {

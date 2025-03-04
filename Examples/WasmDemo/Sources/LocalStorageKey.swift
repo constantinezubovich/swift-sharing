@@ -1,6 +1,6 @@
 import Foundation
 import JavaScriptKit
-import Sharing
+import PointfreeSharing
 
 extension SharedKey {
   static func localStorage<Value>(_ key: String) -> Self where Self == LocalStorageKey<Value> {

@@ -1,4 +1,4 @@
-import Sharing
+import PointfreeSharing
 import UIKit
 import UIKitNavigation
 

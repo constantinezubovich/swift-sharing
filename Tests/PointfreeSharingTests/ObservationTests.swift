@@ -1,5 +1,5 @@
 import PerceptionCore
-import Sharing
+import PointfreeSharing
 import Testing
 
 @MainActor

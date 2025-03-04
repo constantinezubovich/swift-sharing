@@ -12,8 +12,8 @@ let package = Package(
   ],
   products: [
     .library(
-      name: "Sharing",
-      targets: ["Sharing"]
+      name: "PointfreeSharing",
+      targets: ["PointfreeSharing"]
     )
   ],
   dependencies: [
@@ -27,7 +27,7 @@ let package = Package(
   ],
   targets: [
     .target(
-      name: "Sharing",
+      name: "PointfreeSharing",
       dependencies: [
         "Sharing1",
         "Sharing2",
@@ -43,12 +43,12 @@ let package = Package(
       ]
     ),
     .testTarget(
-      name: "SharingTests",
+      name: "PointfreeSharingTests",
       dependencies: [
-        "Sharing",
+        "PointfreeSharing",
         .product(name: "DependenciesTestSupport", package: "swift-dependencies"),
       ],
-      exclude: ["Sharing.xctestplan"]
+      exclude: ["PointfreeSharing.xctestplan"]
     ),
     .target(
       name: "Sharing1",

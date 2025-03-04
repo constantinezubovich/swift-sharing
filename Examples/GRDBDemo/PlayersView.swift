@@ -2,7 +2,7 @@ import Combine
 import Dependencies
 import Foundation
 import GRDB
-import Sharing
+import PointfreeSharing
 import SwiftUI
 
 private let readMe = """

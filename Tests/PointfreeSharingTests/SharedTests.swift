@@ -1,7 +1,7 @@
 import Foundation
 import IdentifiedCollections
 import PerceptionCore
-import Sharing
+import PointfreeSharing
 import Testing
 
 @Suite struct SharedTests {

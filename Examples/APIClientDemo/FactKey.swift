@@ -1,5 +1,5 @@
 import Foundation
-import Sharing
+import PointfreeSharing
 import Synchronization
 
 extension SharedReaderKey where Self == FactKey {

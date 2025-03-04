@@ -1,5 +1,5 @@
 import IssueReporting
-import Sharing
+import PointfreeSharing
 import SwiftUI
 
 private let readMe = """

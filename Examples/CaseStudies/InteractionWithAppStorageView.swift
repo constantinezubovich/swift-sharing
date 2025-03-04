@@ -1,5 +1,5 @@
 import Dependencies
-import Sharing
+import PointfreeSharing
 import SwiftUI
 
 struct InteractionWithAppStorageView: SwiftUICaseStudy {

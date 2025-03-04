@@ -285,7 +285,7 @@
     ///
     /// ```swift
     /// import Dependencies
-    /// import Sharing
+    /// import PointfreeSharing
     /// import SwiftUI
     ///
     /// @main

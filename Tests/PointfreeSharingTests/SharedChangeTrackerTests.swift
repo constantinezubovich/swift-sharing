@@ -1,6 +1,6 @@
 import CustomDump
 import PerceptionCore
-@_spi(SharedChangeTracking) import Sharing
+@_spi(SharedChangeTracking) import PointfreeSharing
 import Testing
 
 @Suite struct SharedChangeTrackingTests {

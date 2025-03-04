@@ -1,7 +1,7 @@
 import CombineSchedulers
 import Dispatch
 import Foundation
-import Sharing
+import PointfreeSharing
 import Testing
 
 @Suite struct IsLoadingTests {

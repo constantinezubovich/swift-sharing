@@ -5,7 +5,7 @@
 //  Created by Brandon Williams on 11/26/24.
 //
 
-import Sharing
+import PointfreeSharing
 import SwiftUI
 
 struct SwiftUIBindingFromSharedView: SwiftUICaseStudy {
